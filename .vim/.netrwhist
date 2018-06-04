@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/samba/public/woe-server'
+let g:netrw_dirhist_2='/samba/public/woe-server/common'
+let g:netrw_dirhist_3='/samba/public/woe-server'
+let g:netrw_dirhist_4='/samba/public/woe-server/server'
+let g:netrw_dirhist_5='/samba/public/woe-server'
+let g:netrw_dirhist_6='/samba/public/woe-server/server/game_server/module/Map'
